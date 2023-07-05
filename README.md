@@ -30,4 +30,5 @@ To address this security event, the network security team implemented:
 ~Attached you will find my incident report analysis. 
 
 ![image](https://github.com/MarcoSantibanez/Using-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident/assets/138132151/43f599ff-89e8-4ebc-840c-e6cd9c1d9389)
+![image](https://github.com/MarcoSantibanez/Using-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident/assets/138132151/98e497e5-cbcf-443b-893d-4dd17911f2cb)
 
